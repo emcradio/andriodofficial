@@ -9,7 +9,7 @@
         "title":"RADIO",
         "provider":"radio",
         "arguments":[
-          "https://c22.radioboss.fm:18040/stream"
+          "http://84.8.135.255/listen/emc_radio/radio.mp3"
         ]
       },
       {
